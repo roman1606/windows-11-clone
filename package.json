@@ -1,0 +1,31 @@
+{
+  "name": "windows-11",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "next": "12.0.8",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.4",
+    "react": "17.0.2",
+    "react-dnd": "^14.0.5",
+    "react-dnd-html5-backend": "^14.1.0",
+    "react-dom": "17.0.2",
+    "uploadcare-widget": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.11",
+    "@types/react": "17.0.38",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "typescript": "4.5.5"
+  }
+}
